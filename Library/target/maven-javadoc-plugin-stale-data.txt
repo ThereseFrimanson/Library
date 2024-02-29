@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'/Users/theresefrimanson/Downloads/Library/Library/target/classes:/Users/theresefrimanson/Downloads/Library/Library/target/test-classes:/Users/theresefrimanson/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar:/Users/theresefrimanson/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/theresefrimanson/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar:/Users/theresefrimanson/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/theresefrimanson/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar:/Users/theresefrimanson/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/theresefrimanson/Downloads/Library/Library/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0.0 Test API'
+-use
+-version
+-windowtitle
+'Library 1.0.0 Test API'
+models
+/Users/theresefrimanson/Downloads/Library/Library/target/classes = 1709129864033
+/Users/theresefrimanson/Downloads/Library/Library/target/test-classes = 1709129864087
+/Users/theresefrimanson/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar = 1706175307141
+/Users/theresefrimanson/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar = 1700036494584
+/Users/theresefrimanson/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar = 1706175307193
+/Users/theresefrimanson/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar = 1700036494562
+/Users/theresefrimanson/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar = 1706175307236
+/Users/theresefrimanson/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar = 1706175307226
+/Users/theresefrimanson/Downloads/Library/Library/src/test/java = 1709105924612
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/tag-search-index.js = 1709130253051
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/overview-tree.html = 1709130253042
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/module-search-index.js = 1709130253050
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/index.html = 1709130253054
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/package-search-index.js = 1709130253050
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/jquery-ui.overrides.css = 1709130253060
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/index-all.html = 1709130253054
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/allpackages-index.html = 1709130253049
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/member-search-index.js = 1709130253050
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/script.js = 1709130253058
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/stylesheet.css = 1709130253057
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/help-doc.html = 1709130253056
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/element-list = 1709130253031
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/allclasses-index.html = 1709130253048
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/type-search-index.js = 1709130253050
+/Users/theresefrimanson/Downloads/Library/Library/target/site/testapidocs/search.js = 1709130253058
